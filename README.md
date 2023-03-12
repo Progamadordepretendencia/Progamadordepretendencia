@@ -1,6 +1,6 @@
 Ola! Aqui é o Lucas/Progamador de pretendencia bem vindo ao meu git
 
-- 🔭 Atualmente trabalhando na area mobile 
+- 🔭 Atualmente trabalhando na area mobile e cursando telemática no instituto federal de ciência e tecnologia do estado do Ceará
 - 🌱 estudando flutter e dart
 
 <div style="display: inline_block"><br>
